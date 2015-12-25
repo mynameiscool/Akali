@@ -62,7 +62,7 @@ namespace Akali
             FarmingMenu = Menu.AddSubMenu("Farming", "Farming");
             FarmingMenu.AddGroupLabel("Farming");
             FarmingMenu.AddLabel("LastHit");
-            FarmingMenu.Add("Q  LH", new CheckBox("Use Q to secure last hits", false));
+            FarmingMenu.Add("QLH", new CheckBox("Use Q to secure last hits", false));
             //FarmingMenu.Add("ELHMana", new Slider("Mana Manager for E", 60, 0, 100));
             FarmingMenu.AddLabel("LaneClear");
             FarmingMenu.Add("ELC", new CheckBox("Use E on LaneClear"));
