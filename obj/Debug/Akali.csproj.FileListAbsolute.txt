@@ -1,0 +1,21 @@
+C:\Users\Jeremy\Desktop\CoolVi - Copy\bin\Debug\Akali.exe.config
+C:\Users\Jeremy\Desktop\CoolVi - Copy\bin\Debug\Akali.exe
+C:\Users\Jeremy\Desktop\CoolVi - Copy\bin\Debug\Akali.pdb
+C:\Users\Jeremy\Desktop\CoolVi - Copy\obj\Debug\Akali.exe
+C:\Users\Jeremy\Desktop\CoolVi - Copy\obj\Debug\Akali.pdb
+C:\Users\Jeremy\Desktop\CoolVi - Copy\bin\Debug\EloBuddy.dll
+C:\Users\Jeremy\Desktop\CoolVi - Copy\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Jeremy\Desktop\CoolVi - Copy\bin\Debug\SharpDX.dll
+C:\Users\Jeremy\Desktop\CoolVi - Copy\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jeremy\Desktop\CoolVi - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremy\Desktop\Akali\bin\Debug\Akali.exe.config
+C:\Users\Jeremy\Desktop\Akali\obj\Debug\Akali.exe
+C:\Users\Jeremy\Desktop\Akali\obj\Debug\Akali.pdb
+C:\Users\Jeremy\Desktop\Akali\bin\Debug\Akali.exe
+C:\Users\Jeremy\Desktop\Akali\bin\Debug\Akali.pdb
+C:\Users\Jeremy\Desktop\Akali\bin\Debug\EloBuddy.dll
+C:\Users\Jeremy\Desktop\Akali\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Jeremy\Desktop\Akali\bin\Debug\SharpDX.dll
+C:\Users\Jeremy\Desktop\Akali\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jeremy\Desktop\Akali\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremy\Desktop\Akali\obj\Debug\Akali.csprojResolveAssemblyReference.cache
