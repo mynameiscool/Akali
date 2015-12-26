@@ -138,6 +138,7 @@ namespace Akali
                 var target = TargetSelector.GetTarget(R.Range, DamageType.Magical);
                 if (target.IsValidTarget(R.Range) && !target.IsZombie)
                 {
+
                     R.Cast(target);
                 }
             }
@@ -231,27 +232,6 @@ namespace Akali
                 }
             }
         }
-                    //------------------------------------------------KS------------------------------------------------
-
-            //if (Menu["KS"].Cast<CheckBox>().CurrentValue && EntityManager.Heroes.Enemies.Any(it => Q.IsInRange(it))) Modes.KS();
-
-            //-----------------------------------------------Auto Ignite----------------------------------------
-
-       /* if (MiscMenu["Auto Ignite"].Cast<CheckBox>().CurrentValue && Ignite != null)
-        {
-            if (Ignite.IsReady())
-            {
-                var IgniteEnemy = EntityManager.Heroes.Enemies.FirstOrDefault(it => DamageLibrary.GetSummonerSpellDamage(ObjectManager.Player, it, DamageLibrary.SummonerSpells.Ignite) >= it.Health - 30);
-
-                if (IgniteEnemy != null)
-                {
-                    if ((IgniteEnemy.Distance(ObjectManager.Player) >= 300 || ObjectManager.Player.HealthPercent <= 40))
-                    {
-                        Ignite.Cast(IgniteEnemy);
-                    }
-}
-            }
-        }*/
         static void Orbwalker_OnPostAttack(AttackableUnit target, EventArgs args)
         {
             if (target != null)
